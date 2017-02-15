@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1400025844 source:e:\varsity\cse\codes\railway ticket management\main.cpp
+	<stdio.h>
+	<cstdlib>
+	<stdlib.h>
+	<cstring>
+	<iostream>
+	<time.h>
+	<iomanip>
+	<fstream>
+
